@@ -1,2 +1,3 @@
 # lista-3
-lista de exercicios
+lista de exercicio
+
